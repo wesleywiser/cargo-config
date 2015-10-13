@@ -2,3 +2,7 @@
 name = "cargo-config"
 version = "0.1.0"
 authors = ["Wesley Wiser <wwiser@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+toml = "0.1"
