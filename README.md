@@ -1,6 +1,6 @@
 # Description
 
-`cargo-config` allows you get to read information from a project's `Cargo.toml` file. Similar in spirit to `git config`
+`cargo-config` allows you get to read information from a project's `Cargo.toml` file on the command line. Similar in spirit to `git config`
 
 # Usage
 
