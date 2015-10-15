@@ -1,6 +1,6 @@
 [package]
 name = "cargo-config"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Wesley Wiser <wwiser@gmail.com>"]
 license = "Apache-2.0/MIT"
 repository = "https://github.com/wesleywiser/cargo-config"

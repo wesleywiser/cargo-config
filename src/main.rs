@@ -38,8 +38,8 @@ fn main() {
 fn get_requested_path() -> String {
     let arguments = args();
 
-    if arguments.len() != 2 {
-        panic!("You must provide only 1 argument: the TOML path to load");
+    if arguments.len() != 3 {
+        panic!("Usage cargo config path.to.value");
     }
 
     arguments.last().unwrap()
