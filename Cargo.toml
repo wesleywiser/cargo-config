@@ -2,6 +2,9 @@
 name = "cargo-config"
 version = "0.1.0"
 authors = ["Wesley Wiser <wwiser@gmail.com>"]
+license = "Apache-2.0/MIT"
+repository = "https://github.com/wesleywiser/cargo-config"
+description = "cargo-config allows you get to read information from a project's Cargo.toml file on the command line. Similar in spirit to git config."
 
 [dependencies]
 rustc-serialize = "0.3"
