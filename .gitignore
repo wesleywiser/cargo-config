@@ -1,1 +1,4 @@
-target
+.DS_STORE
+
+/target
+**/*.rs.bk
